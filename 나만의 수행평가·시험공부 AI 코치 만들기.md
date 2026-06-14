@@ -1240,10 +1240,35 @@ quiz-maker
 rubric-reviewer
 learning-safety-checker
 ```
+---
+
+## 9. 게시하기
+
+미리보기에서 테스트가 성공하면 오른쪽 위 버튼을 누릅니다.
+
+```text
+Publish
+```
+
+게시가 끝나면 실제 채널에서 사용할 수 있습니다.
+
+수업에서 학생들이 실제로 사용하게 하려면 Demo Website를 사용할 수 있습니다. Demo Website가 보이지 않으면 Authentication 설정에서 No authentication을 선택해야 할 수 있습니다.
+
+```text
+Settings
+→ Safety & access
+→ Authentication
+→ No authentication
+→ Save
+→ Publish
+→ Demo Website
+```
+
+주의: No authentication을 선택하면 링크를 가진 사람이 누구나 접속할 수 있으므로, 개인정보를 입력하지 말아야 합니다.
 
 ---
 
-## 9. 테스트하기
+## 10. 테스트하기
 
 상단 메뉴에서 아래를 누릅니다.
 
@@ -1289,7 +1314,7 @@ learning-safety-checker
 
 ---
 
-## 10. 시험공부 버전 테스트하기
+## 11. 시험공부 버전 테스트하기
 
 채팅창에 아래처럼 입력합니다.
 
@@ -1320,9 +1345,9 @@ learning-safety-checker
 
 ---
 
-## 11. 테스트용 프로필 5개
 
-수업 중에는 팀별로 아래 프로필 중 하나를 골라 테스트합니다.
+## 12. 테스트용 프로필 5개
+
 
 ### 테스트 1. 사회 수행평가
 
@@ -1381,31 +1406,6 @@ learning-safety-checker
 
 ---
 
-## 12. 게시하기
-
-미리보기에서 테스트가 성공하면 오른쪽 위 버튼을 누릅니다.
-
-```text
-Publish
-```
-
-게시가 끝나면 실제 채널에서 사용할 수 있습니다.
-
-수업에서 학생들이 실제로 사용하게 하려면 Demo Website를 사용할 수 있습니다. Demo Website가 보이지 않으면 Authentication 설정에서 No authentication을 선택해야 할 수 있습니다.
-
-```text
-Settings
-→ Safety & access
-→ Authentication
-→ No authentication
-→ Save
-→ Publish
-→ Demo Website
-```
-
-주의: No authentication을 선택하면 링크를 가진 사람이 누구나 접속할 수 있으므로, 학생들에게 개인정보를 입력하지 말라고 안내해야 합니다.
-
----
 
 ## 13. 자주 발생하는 문제
 
